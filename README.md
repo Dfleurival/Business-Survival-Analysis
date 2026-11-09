@@ -34,5 +34,4 @@ Tools
 Google Sheets (cleaning, VLOOKUP, charts), Canva (presentation).
 Files
 • https://docs.google.com/spreadsheets/d/1aG_FK0NdVUvC0xLJ0F2zFPAa-kmw3yFNFuJmyrBR2ZQ/edit?usp=sharing: cleaned data
-• top5_chart.png: top-five chart
-: entrepreneur presentation
+• https://canva.link/8q28fibg06s1rm8: entrepreneur presentation
