@@ -1,19 +1,21 @@
 # Business-Survival-Analysis
 Analysis of 2020 business survival rates across eight U.S. industries, with a top-5 comparison and recommendation for a new business owner.
-The scenario
+## The scenario
+
 An entrepreneur wants to start a business and asks which industries give new businesses the best chance of surviving.
-Questions asked during the ask phase:
-1. What does success look like for your business?
-2. Answer: Success means the business is still operating after a set period of time.
-3. What time period should our analysis cover?
-4. Answer: The past five years.
-5. How many top industries would you like us to highlight?
-6.  Answer: The top five, to give a broader set of options to work with.
-7. When do you need our findings?
-8.  Answer: In about one week.
-9. Am I presenting these findings directly to you?
-10. Answer: Yes, the findings are presented directly to me the entrepreneur.
-Data source
+
+## Questions asked during the ask phase
+
+1. **What does success look like for your business?**
+   Success means the business is still operating after a set period of time.
+2. **What time period should our analysis cover?**
+   The past five years.
+3. **How many top industries would you like us to highlight?**
+   The top five, to give a broader set of options to work with.
+4. **When do you need our findings?**
+   In about one week.
+5. **Am I presenting these findings directly to you?**
+   Yes, the findings are presented directly to the entrepreneur.
 U.S. Bureau of Labor Statistics data on business establishments, 2020 to 2025.
 Steps
 1. Collected the data for eight industries (Retail, Construction, Healthcare, Food Service, Education, Real Estate, Finance, and Transportation).
